@@ -68,7 +68,7 @@ Eksperymentował z substancjami psychoaktywnymi - odkrył ich stymulujący wpły
 - translate readme to eng
 - gather first dataset of images
 - label the dataset
-- create notebook with protype
+- ~~create notebook with protype~~
 - much, much more ...
 
 ## Sources
