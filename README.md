@@ -1,4 +1,4 @@
-Witkacy
+Witkacy's style transfer project
 =======
 
 ## Goal
