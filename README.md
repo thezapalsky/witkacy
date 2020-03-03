@@ -5,13 +5,17 @@ Witkacy's style transfer project
 
 Stworzenie aplikacji mającej na celu przeniesienie stylu artysty na dowolny obraz dostarczony przez użytkownika wraz z wyborem konkretnej kategorii oraz substancji. 
 
+<p float="left">
+<img src="images/w-autoportret1.jpg" alt="style" width="250"/>
+<img src="images/me2.jpg" alt="content" width="250"/>
+<img src="images/output2.png" alt="output" width="250"/>
+</p>
+
 ## Description
 
 ### Synopsis
 
 **Stanisław Ignacy Witkiewicz** - polski pisarz, malarz, filozof, dramaturg i fotografik.
-
-![w-autoportret1](images/w-autoportret1.jpg "W-autoportret 1")
 
 Eksperymentował z substancjami psychoaktywnymi - odkrył ich stymulujący wpływ na wyobraźnię i powiększenie możliwości artystycznych. Tworzył portrety kilentów, jednocześnie będąc pod ich wpływem. Prace badawcze z substancjami takimi jak kokaina, pejotl i syntetyczna meskalina, eter czy zwykły alkohol kontynuował też i później, skrupulatnie notując na obrazach rodzaj użytej substancji. Nie przyjmował żadnego z nich w sposób ciągły i nic nie wskazuje na to, że był od któregokolwiek (z wyjątkiem tytoniu) uzależniony.
 
