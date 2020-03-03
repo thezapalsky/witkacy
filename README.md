@@ -7,7 +7,7 @@ Stworzenie aplikacji mającej na celu przeniesienie stylu artysty na dowolny obr
 
 <p float="left">
 <img src="images/w-autoportret1.jpg" alt="style" width="250"/>
-<img src="images/me2.jpg" alt="content" width="250"/>
+<img src="images/me2.JPG" alt="content" width="250"/>
 <img src="images/output2.png" alt="output" width="250"/>
 </p>
 
