@@ -73,3 +73,4 @@ Eksperymentował z substancjami psychoaktywnymi - odkrył ich stymulujący wpły
 * https://witkacologia.eu/
 * http://www.witkacy.hg.pl/
 * https://www.muzeum.slupsk.pl/index.php/witkacy/skroty
+* https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
