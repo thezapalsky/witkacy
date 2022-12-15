@@ -13,3 +13,6 @@ Praca wprowadza w temat wykorzystania sztucznej inteligencji do tworzenia sztuki
 
 ## Paper
 ([PDF](https://github.com/thezapalsky/witkacy/raw/master/mgr.pdf))
+
+## Files repository
+([PDF](https://github.com/thezapalsky/witkacy))
