@@ -7,7 +7,7 @@ The paper introduces the use of artificial intelligence for art making by presen
 Praca wprowadza w temat wykorzystania sztucznej inteligencji do tworzenia sztuki prezentując zagadnienia związane z postrzeganiem estetyki, aktualne zastosowania oraz wyzwania. Następnie skupia się na konkretnej dziedzinie jaką jest artystyczny transfer stylu, przedstawia jego historie oraz przekrojowo wyjaśnia działanie aktualnie wykorzy- stywanych metod. Opracowanie proponuje autorskie podeście do jakościowego mierzenia rezultatów i na jego podstawie stworzone zostaje drzewo decyzyjne, którego celem jest wskazanie odpowiedniego algorytmu dla konkretnego przypadku użycia.
 
 ## Survey report
-([PDF](#))
+([PDF](https://github.com/thezapalsky/witkacy/blob/master/attachments/NST-report.pdf))
 
 ## Paper
-([PDF](#))
+([PDF](https://github.com/thezapalsky/witkacy/raw/master/mgr.pdf))
